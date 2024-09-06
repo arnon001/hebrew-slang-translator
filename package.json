@@ -1,6 +1,6 @@
 {
   "name": "hebrew-slang-translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Heberw Slang to Hebrew Translator (Made for r/ani_bm)",
   "main": "index.js",
   "repository": "https://github.com/arnon001/hebrew-slang-translator.git",
