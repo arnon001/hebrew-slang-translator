@@ -1,0 +1,16 @@
+{
+  "name": "hebrew-slang-translator",
+  "version": "1.0.0",
+  "description": "Heberw Slang to Hebrew Translator (Made for r/ani_bm)",
+  "main": "index.js",
+  "repository": "https://github.com/arnon001/hebrew-slang-translator.git",
+  "author": "arnon001 (Arnon Hacohen) <arnonhacohen123@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
